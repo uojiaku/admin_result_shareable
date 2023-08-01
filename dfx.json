@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "canisters": {
+    "secretInformations": {
+      "type": "motoko",
+      "main": "main.mo"
+    },
+    "shareable": {
+      "type": "motoko",
+      "main": "shareable.mo"
+    },
+    "shareable2": {
+      "type": "motoko",
+      "main": "shareable2.mo"
+    }
+  }
+}
